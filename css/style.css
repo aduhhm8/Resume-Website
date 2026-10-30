@@ -188,7 +188,7 @@
 		/* Profile Section */
 	/*-------------------------------------------------------*/
     #profile {
-		background:#189bcf; 
+		background:#0e7835; 
 		background-image:url(../images/header-shadow.png);
 		background-position:center bottom;
 		background-repeat:repeat-x;
@@ -347,7 +347,7 @@
 	  background: url(../images/tab-hover.png) no-repeat;
 	}
 	.tabs li.active a {
-	  color: #98cee4;
+	  color: #91d69e;
 	}
 
 	.next,.prev {
